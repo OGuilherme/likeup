@@ -43,12 +43,12 @@
 	</dependencies>
 
 	<modules>
+		<module>src/model</module>
+		<module>src/entity</module>
+		<module>src/repository</module>
+		<module>src/services</module>
 		<module>src/web</module>
 		<module>src/rest</module>
-		<module>src/services</module>
-		<module>src/entity</module>
-		<module>src/bean</module>
-		<module>src/dao</module>
 	</modules>
 
 </project>
