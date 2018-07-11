@@ -8,8 +8,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <relativePath>../../</relativePath>
   </parent>
-  <artifactId>dao</artifactId>
-  <name>dao</name>
+  <artifactId>repository</artifactId>
+  <name>repository</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

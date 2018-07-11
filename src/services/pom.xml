@@ -21,7 +21,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>br.com.likeup</groupId>
-			<artifactId>bean</artifactId>
+			<artifactId>model</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
@@ -31,7 +31,7 @@
 		</dependency>
 		<dependency>
 			<groupId>br.com.likeup</groupId>
-			<artifactId>dao</artifactId>
+			<artifactId>repository</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
